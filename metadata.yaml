@@ -1,0 +1,49 @@
+_repo: Tuomo-sed-n-tupa_16393
+_version: 0.1.0
+alternative_title: Uncle Tom's cabin. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Crowfield, Christopher
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+  editor:
+    agent_name: Friberg, Maikki
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '6675'
+    url: http://www.gutenberg.org/2009/agents/6675
+    wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
+description: ''
+gutenberg_issued: '2005-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16393'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Master and servant -- Fiction'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Slaves -- Fiction'
+- !lcsh 'Slavery -- Fiction'
+- !lcsh 'Southern States -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Plantation life -- Fiction'
+- !lcsh 'Uncle Tom (Fictitious character) -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcc 'PZ'
+title: Tuomo sedän tupa
+url: http://www.gutenberg.org/ebooks/16393
